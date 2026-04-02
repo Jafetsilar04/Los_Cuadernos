@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# BLOQUEO DE DATOS
+data/
