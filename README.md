@@ -2,14 +2,14 @@
 ---
 ## Integrantes :
 ---
-* Arzate Angulo Javier Alejandro.
-_Estudiante de ingeniería en computación de 6to semestre._ 
-* Fernández Hernández Jésus Jafet.
-_Estudiante de ingeniería en computación de 6to semestre._
-* Ramírez López de Nava Emilio Alessandro.
-_Estudiante de ingeniería en computación de 6to semestre._
+* **Arzate Angulo Javier Alejandro.**
+>_Estudiante de ingeniería en computación de 6to semestre._ 
+* **Fernández Hernández Jésus Jafet.**
+>_Estudiante de ingeniería en computación de 6to semestre._
+* **Ramírez López de Nava Emilio Alessandro.**
+>_Estudiante de ingeniería en computación de 6to semestre._
 ### ODS elegidos:
 ---
-* Agua limpia y saneamiento
-* Reducción de las desigualdades
-* Ciudades y comunidades sostenibles
+* 6° Agua limpia y saneamiento: :ocean:
+* 10° Reducción de las desigualdades :chart_with_downwards_trend:
+* 11° Ciudades y comunidades sostenibles :city_sunrise: 
