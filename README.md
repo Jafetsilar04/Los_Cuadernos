@@ -13,3 +13,7 @@
 * 6° Agua limpia y saneamiento: :ocean:
 * 10° Reducción de las desigualdades :chart_with_downwards_trend:
 * 11° Ciudades y comunidades sostenibles :city_sunrise: 
+#### ¿En qué consiste el proyecto?
+---
+> Se trata de un análisis de estrés hídrico y vulnerabilidad social en México para la Agenda 2030 
+#### Fuentes de informacion:
