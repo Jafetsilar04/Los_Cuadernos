@@ -9,15 +9,14 @@ format:
     theme: 
       light: lumen
       dark: darkly
-    embed-resources: true
+    embed-resources: false
     toc: true
-    toc-location: left-body
+    toc-location: left
     title-block-banner: "#6ca19e" 
     title-block-banner-color: "#fff"
     code-fold: true
     grid:
       body-width: 1200px
-    fig-format: svg
 execute:
   echo: false   
   warning: false
