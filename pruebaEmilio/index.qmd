@@ -1,18 +1,45 @@
 ---
-format :
+title: "HACKODS"
+author: "Los cuadernos"
+date: last-modified
+lang: es
+format:
   html:
-    page-layout: full
+    fontsize: 20pt
+    theme: 
+      light: lumen
+      dark: darkly
     embed-resources: true
+    toc: true
+    toc-location: left-body
+    title-block-banner: "#6ca19e" 
+    title-block-banner-color: "#fff"
+    code-fold: true
     grid:
       body-width: 1200px
-echo : false
-theme:
-  light: flatly
-  dark: darkly
-warning: false
-toc: true
+    fig-format: svg
+execute:
+  echo: false   
+  warning: false
+  message: false
 ---
-# Prueba Emilio
+# La escasez de agua en México
+
+El agua es un recurso esencial para la vida, pero su disponibilidad y calidad están siendo amenazadas por diversos factores, como el cambio climático, la contaminación y el crecimiento demográfico. En este cuaderno, exploraremos los desafíos que enfrenta el agua a nivel país y estado, así como las posibles soluciones para garantizar su acceso sostenible para las generaciones futuras.
+
 
 ### Análisis de Vulnerabilidad
 {{< embed notebook\003_Analisis_vulnerabilidad.ipynb#pruebaA >}}
+### Acuíferos críticos
+{{< embed notebook\003_Analisis_vulnerabilidad.ipynb#AcuiferosCriticos >}}
+### Priorización de intervencion
+{{< embed notebook\003_Analisis_vulnerabilidad.ipynb#PriorizacionIntervencion >}}
+### Relacion Disponibilidad e Infraestructura
+{{< embed notebook\003_Analisis_vulnerabilidad.ipynb#relacion >}}
+### Acuiferos con dispionibilidad pero baja infraestructura
+{{< embed notebook\003_Analisis_vulnerabilidad.ipynb#AcuiferosDisponibilidadBajaInfraestructura >}}
+### Mapeo de resitrcciones legales en zonas criticas
+{{< embed notebook\003_Analisis_vulnerabilidad.ipynb#MapeoRestriccionesLegales >}}
+
+# Mapas
+ 
