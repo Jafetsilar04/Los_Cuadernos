@@ -6,10 +6,10 @@ lang: es
 format: 
   dashboard:
     fontsize: 20pt
-    theme: "sandstone"
+    theme:
+      light: "solar"
+      dark: "darkly"
     embed-resources: false
-    title-block-banner: "#6ca19e" 
-    title-block-banner-color: "#fff"
     code-fold: true
     toc: true
 execute:
@@ -43,7 +43,7 @@ El agua es un recurso esencial para la vida, pero su disponibilidad y calidad es
 
 # Mapas {scrolling="true"}
 
-### MAPA 1: DISPONIBILIDAD DE AGUA SUBTERRÁNEA
+### MAPA 1: DISPONIBILIDAD DE AGUA SUBTERRÁNEA {width="100%" height="600px" style="border:none;"}
 {{< embed notebook/004_Atlas_cartografico.ipynb#Mapa1 >}}
 
 ### MAPA 2: BRECHA DE INFRAESTRUCTURA
