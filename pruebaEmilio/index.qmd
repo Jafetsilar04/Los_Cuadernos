@@ -22,6 +22,10 @@ execute:
 
 El agua es un recurso esencial para la vida, pero su disponibilidad y calidad están siendo amenazadas por diversos factores, como el cambio climático, la contaminación y el crecimiento demográfico.
 
+# Prueba
+
+Hola esto es una prueba
+## Pito
 
 ### Análisis de Vulnerabilidad
 {{< embed notebook/003_Analisis_vulnerabilidad.ipynb#pruebaA >}}
