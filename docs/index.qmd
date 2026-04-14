@@ -92,7 +92,7 @@ El **Mapa 3** ilustra las Zonas de Veda. El centro y norte industrial del país 
 ## Row {height=700px}
 
 ### MAPA 3: Estatus Legal de Extracción (Restricciones y Vedas de CONAGUA) {.fill}
-{{< embed 004_Atlas_cartografico.ipynb#fig-mapa-vedas >}}|        
+{{< embed 004_Atlas_cartografico.ipynb#fig-mapa-vedas >}}
 
 # 3. La Brecha Social
 
