@@ -13,3 +13,6 @@ wheels/
 data/
 maps/
 .ipynb_checkpoints/
+
+
+notebook/005_simulacion_solucion.ipynb
